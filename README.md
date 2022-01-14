@@ -2,7 +2,5 @@
 
 This is first line in this repo.
 
-## IPsum below
-Tatto 
-
-### IPsum
+## website contents
+1. index.html
